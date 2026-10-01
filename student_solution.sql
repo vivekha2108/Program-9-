@@ -1,6 +1,6 @@
 USE CollegeDB;
 
-SELECT 
+SELECT
     s.StudentID,
     s.StudentName,
     d.DepartmentName
